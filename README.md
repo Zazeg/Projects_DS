@@ -12,3 +12,5 @@
 | [Исследование игровой индустрии](https://github.com/Zazeg/yandex_practicum/tree/main/Исследование%20игровой%20индустрии) | Вам нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании. | *Python, Pandas, Matplotlib, NumPy, SciPy, Seaborn, Datetime* |
 | [Рекомендация тарифа](https://github.com/Zazeg/yandex_practicum/tree/main/Рекомендация%20тарифов) | На основе данных предложить клиенту тариф | *Python, Pandas, Sklearn, NumPy, Seaborn* |
 | [Отток клиентов](https://github.com/Zazeg/yandex_practicum/tree/main/Отток%20клиентов) | На основе данных из банка определить клиента, который может уйти | *Python, Pandas, Sklearn, Matplotlib, Seaborn* |
+| [Защита персональных данных клиентов](https://github.com/Zazeg/yandex_practicum/tree/main/Защита%20персональных%20данных%20клиентов) | Разработка модели анонимизации персональных данных | *Python, Pandas, Sklearn, Numpy, Seaborn* |
+ 
