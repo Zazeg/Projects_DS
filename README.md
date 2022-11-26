@@ -13,4 +13,4 @@
 | [Рекомендация тарифа](https://github.com/Zazeg/yandex_practicum/tree/main/Рекомендация%20тарифов) | На основе данных предложить клиенту тариф | *Python, Pandas, Sklearn, NumPy, Seaborn* |
 | [Отток клиентов](https://github.com/Zazeg/yandex_practicum/tree/main/Отток%20клиентов) | На основе данных из банка определить клиента, который может уйти | *Python, Pandas, Sklearn, Matplotlib, Seaborn* |
 | [Защита персональных данных клиентов](https://github.com/Zazeg/yandex_practicum/tree/main/Защита%20персональных%20данных%20клиентов) | Разработка модели анонимизации персональных данных | *Python, Pandas, Sklearn, Numpy, Seaborn* |
- 
+| [Определение стоимости автомобиля](https://github.com/Zazeg/yandex_practicum/tree/main/Определение%20стоимости%20автомобиля) | Разработка системы рекомендации стоимости автомобиля на основе его описания | *Pandas, Numpy, Seaborn, Matplotlib, Sklearn, Catboost, Lightgbm* |
